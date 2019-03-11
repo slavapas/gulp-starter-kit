@@ -1,0 +1,18 @@
+{
+  // Editor Rules
+  "editor.formatOnSave": true,
+
+  // Prettier
+  "prettier.printWidth": 100,
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": true,
+  "prettier.stylelintIntegration": true,
+  "prettier.eslintIntegration": true,
+
+  // ESLint
+  "eslint.enable": true,
+
+  // Stylelint
+  "stylelint.enable": true,
+  "css.validate": false
+}
